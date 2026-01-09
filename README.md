@@ -35,5 +35,5 @@ Ispis je u Stepen-minuta-sekunda
 Dužina je na 3 decimale
 Koristiti horizontalnu dužinu tokom iskolčenja na TS!
 
-Preuzmi .apk
-https://github.com/amerr97/e-iskolcenje/blob/main/E-IskolcenjeV1.4.apk
+[Preuzmi .apk([URL](https://github.com/amerr97/e-iskolcenje/blob/main/E-IskolcenjeV1.4.apk))
+
