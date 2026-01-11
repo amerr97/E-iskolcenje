@@ -36,6 +36,4 @@ Ispis je u Stepen-minuta-sekunda
 Dužina je na 3 decimale
 Koristiti horizontalnu dužinu tokom iskolčenja na TS!
 
-https://youtube.com/shorts/muPg_kYwda8?si=9vUw_xh8bMBC0-30
-
-
+[![Video deomnstracija](https://img.youtube.com/vi/muPg_kYwda8/0.jpg)](https://www.youtube.com/watch?v=muPg_kYwda8)
