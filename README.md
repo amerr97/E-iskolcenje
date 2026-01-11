@@ -5,7 +5,7 @@ Može se koristiti za polarnu metodu iskolčenja i presjeka pravaca
 
 
 
-Import faj sa podacima o tačkama ( broj tačke, y koordinata, x koordinata itd.)
+Import fajl sa podacima o tačkama ( broj tačke, y koordinata, x koordinata itd.)
 Kolone .txt fajla je moguće definisati naknadno tako da raspored u .txt fajlu nije bitan. 
 ![uvoz](https://github.com/user-attachments/assets/ee20262e-dc56-4c98-94ff-467a845e8eb2)
 
