@@ -2,6 +2,8 @@ Android aplikacija za izracunavanje elemenata iskolčenja iz geodezije
 Može se koristiti za polarnu metodu iskolčenja i presjeka pravaca
 [Preuzmi e-iskolcenje.apk](https://github.com/amerr97/e-iskolcenje/blob/main/E-IskolcenjeV1.4.apk) 
 
+![Screenshot_2026-01-09-21-57-41-372_com example eiskolcenje](https://github.com/user-attachments/assets/d048d3bf-30ee-4b1a-8bc6-76b98439a6c2)
+
 Import faj sa podacima o tačkama ( broj tačke, y koordinata, x koordinata itd.)
 Kolone .txt fajla je moguće definisati naknadno tako da raspored u .txt fajlu nije bitan. 
 ![uvoz](https://github.com/user-attachments/assets/ee20262e-dc56-4c98-94ff-467a845e8eb2)
